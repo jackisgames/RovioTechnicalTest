@@ -10,6 +10,10 @@ My idea is a deep tactical games that's put importance of positioning, chaining 
 
 The AI also have to be smart and provide challenging gameplay.
 
+And i got an offer but I made hard decision to help CD Projekt RED with cyberpunk instead.
+
+I really recommend to join their team, they have interesting project, great team and many room to grow as engineer there and on top of that Sweden is nice country!
+
 Overview
 ![Alt Text](https://i.imgur.com/WG8hiNL.gif)
 
