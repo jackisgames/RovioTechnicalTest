@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Asset:		Isometric heavy armor
+Author:		ibrorumque64
+License:	CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+Link:		https://opengameart.org/content/isometric-heavy-armor
+-------------------------------------------------------------------------------
+Asset:		Hit Animation | Frame by frame
+Author:		Sinestesia
+License:	CC0 https://creativecommons.org/publicdomain/zero/1.0/
+Link:		https://opengameart.org/content/hit-animation-frame-by-frame
+-------------------------------------------------------------------------------
+Asset:		basic isometric tiles 128x128
+Author:		ToxSickProductions.com
+License:	CC0 https://creativecommons.org/publicdomain/zero/1.0/
+Link:		https://opengameart.org/content/basic-isometric-tiles-128x128
+-------------------------------------------------------------------------------
+Asset:		Overhead Action RPG Characters
+Author:		LUNARSIGNALS
+License:	CC-BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+Link:		https://opengameart.org/content/overhead-action-rpg-characters
+-------------------------------------------------------------------------------
